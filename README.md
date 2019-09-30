@@ -44,7 +44,7 @@ We're going to build an end-to-end scenario that allows you to pull in your own 
 
 ## Lab 7: Integrate LUIS into a bot with Dialogues
 
-Now that our bot is capable of taking in a user's input and responding based on the user's input, we will give our bot the ability to understand natural language with the LUIS model we built in [Lab 6](../Lab6-Implement_LUIS/02-Implement_LUIS.md)"
+Now that our bot is capable of taking in a user's input and responding based on the user's input, we will give our bot the ability to understand natural language with the LUIS model we built in [Lab 6](/Lab6-Implement_LUIS/02-Implement_LUIS.md)
 
 ## Lab 8: Detect User Language
 
