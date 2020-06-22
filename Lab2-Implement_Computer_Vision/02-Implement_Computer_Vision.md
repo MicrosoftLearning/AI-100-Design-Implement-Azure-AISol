@@ -26,7 +26,7 @@ In the continuation of this lab throughout the course, we'll show you how to que
 
 ## Lab 2.2: Resources
 
-There are some directories in the [main](./Lab2-Implement_Computer_Vision) github repo folder:
+There are some directories in the [main](./) github repo folder:
 
 - **sample_images**: Some sample images to use in testing your implementation of Cognitive Services.
 
