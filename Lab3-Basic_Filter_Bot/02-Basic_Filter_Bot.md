@@ -146,7 +146,7 @@ A few things to **Note**
 
 * Note the localhost port number for the web page. This should (and must) match the endpoint in your Emulator.
 
->Get stuck or broken? You can find the solution for the lab up until this point under [{GitHubPath}/code/Finished/PictureBot-Part0](./code/Finished/PictureBot-Part0). The readme file within the solution (once you open it) will tell you what keys you need to add in order to run the solution.
+>Get stuck or broken? You can find the solution for the lab up until this point under [./code/Archive/FinishedPictureBot-Part0]({GitHubPath}/code/Archive/FinishedPictureBot-Part0). The readme file within the solution (once you open it) will tell you what keys you need to add in order to run the solution.
 
 #### Using the Bot Framework Emulator
 
