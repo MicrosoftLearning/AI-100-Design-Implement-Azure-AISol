@@ -18,7 +18,7 @@ In this lab we are going to integrate language detection ability of cognitive se
 
 1. Select **Browse**
 
-1. Search for **Microsoft.Azure.CognitiveServices.Language.TextAnalytics**, select it then select **Install**, then select **I Accept**
+1. Search for **Azure.AI.TextAnalytics**, select it then select **Install**, then select **I Accept**
 
 1. Open the **Startup.cs** file, add the following using statements:
 
