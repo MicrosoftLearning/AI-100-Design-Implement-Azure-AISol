@@ -50,7 +50,7 @@ While out of scope for this lab, this architecture integrates Azure's data solut
 
 Your team recently presented a potential architecture (below) that Adventure Works approved:
 
-![architecture](../images/AI_Immersion_Arch.png)
+![architecture](../images/AI_100_Arch.png)
 
 - [Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) allows uploading images, detects contents
 - [QnA Maker](https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/) facilitating bot interactions from a static knowledge base
